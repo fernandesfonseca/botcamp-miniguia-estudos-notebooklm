@@ -5,14 +5,14 @@
 ## 🎯 Contexto e Objetivos
 
 ### Assunto Escolhido
-[DEFINA AQUI seu tema de interesse - ex: "Engenharia de Prompts Avançada", "Arquitetura de Sistemas Distribuídos", "Segurança em Aplicações Web", etc.]
+Qualidade de Software tradicional e Qualidade de Software com IA 
 
 ### Objetivos de Estudo
-- [ ] Objetivo 1: [Descreva seu primeiro objetivo]
-- [ ] Objetivo 2: [Descreva seu segundo objetivo]
-- [ ] Objetivo 3: [Descreva seu terceiro objetivo]
+- [ ] Objetivo 1: Qualidade de software tradicional 
+- [ ] Objetivo 2: Qualidade de Software com IA 
+- [ ] Objetivo 3: Diferança entra a qualidade de software tradicional com a qualidade de software com ia 
 
-**Justificativa**: [Explique por que escolheu este tema e como se relaciona com sua jornada no bootcamp]
+**Justificativa**: Escolhi esse temo por ser minha áera de atuação, pois atuou como analisata de qualidade de software senior e venho cada dia mais aplicando o uso de IA no meu dia a dia, tanto para automação de testes como para aceler processos e entregas. O tema estudado, posso ajudar novos QA Junior e Pleno a evoluirem no contexto. 
 
 ---
 
@@ -22,14 +22,13 @@ Abaixo estão as 3-5 fontes abertas que foram selecionadas e carregadas no Noteb
 
 | # | Título | Tipo | Link | Descrição |
 |---|--------|------|------|-----------|
-| 1 | [Nome da Fonte] | PDF/Texto | [Link da Fonte] | Breve descrição do conteúdo |
-| 2 | [Nome da Fonte] | PDF/Texto | [Link da Fonte] | Breve descrição do conteúdo |
-| 3 | [Nome da Fonte] | PDF/Texto | [Link da Fonte] | Breve descrição do conteúdo |
-| 4 | [Nome da Fonte] | PDF/Texto | [Link da Fonte] | Breve descrição do conteúdo |
-| 5 | [Nome da Fonte] | PDF/Texto | [Link da Fonte] | Breve descrição do conteúdo |
+| 1 | [Pirâmide de Testes: Uma Estratégia para Qualidade de Software] | Artigo | [[Link da Fonte](https://www.linkedin.com/pulse/pir%C3%A2mide-de-testes-uma-estrat%C3%A9gia-para-qualidade-software-fonseca-zxzqf)] | A Pirâmide de Testes é uma representação gráfica que organiza os tipos de testes em camadas. Sua principal função é orientar os QAs e a equipe de desenvolvimento na definição de estratégias de qualidade |
+| 2 | [Automação de Testes: Quando? Como? O que Automatizar? Vale a Pena ou Não?] | Artigo | [[Link da Fonte](https://www.linkedin.com/pulse/automa%C3%A7%C3%A3o-de-testes-quando-como-o-que-automatizar-vale-fonseca-dtdyf)] | Este artigo tem como objetivo explorar as perguntas fundamentais: Quando, como e o que automatizar? E, claro, se vale a pena. |
+| 3 | [Diferenciando Bugs, Incidentes e Sugestões de Melhoria na Qualidade de Software] | Artigo | [[Link da Fonte](https://www.linkedin.com/pulse/diferenciando-bugs-incidentes-e-sugest%C3%B5es-de-melhoria-fonseca-fmbdf)] | uem nunca passou por uma situação em uma daily, retrospectiva ou reunião em que um bug/incidente é cadastrado e surgem divergências sobre como classificá-lo? Seria realmente um bug/incidente ou apenas uma sugestão de melhoria? |
+| 4 | [O Futuro do QA em 2026: As Ferramentas de Inteligência Artificial que Redefinem a Qualidade] | Artigo | [[Link da Fonte](https://www.linkedin.com/pulse/o-futuro-do-qa-em-2026-ferramentas-de-intelig%C3%AAncia-artificial-borba-vy9ef)] | Breve descrição do conteúdo |
+| 5 | [Qualidade de Software do ZERO: Curso Completo em Vídeo ] | Video | [[Link da Fonte](https://www.youtube.com/watch?v=fN3bxqICfvw)] | Este material é parte de um projeto contínuo de melhoria de conteúdos didáticos oferecidos gratuitamente no canal, que vem evoluindo ao longo dos semestres com base no feedback dos estudantes. |
 
-**Critério de Seleção**: [Explique como selecionou essas fontes e por que são relevantes para seu tema]
-
+**Critério de Seleção**: Utilizei algumas fotes que sempre consumo e utilizo para transmitir para colegas que estão iniciando na área de Qualidade de Software. Acredito que elas ajudam bastante na base 
 ---
 
 ## 🔧 Engenharia de Prompts e "Cicatrizes"
