@@ -29,8 +29,9 @@ Abaixo estão as 3-5 fontes abertas que foram selecionadas e carregadas no Noteb
 | 5 | [Qualidade de Software do ZERO: Curso Completo em Vídeo ] | Video | [[Link da Fonte](https://www.youtube.com/watch?v=fN3bxqICfvw)] | Este material é parte de um projeto contínuo de melhoria de conteúdos didáticos oferecidos gratuitamente no canal, que vem evoluindo ao longo dos semestres com base no feedback dos estudantes. |
 
 **Critério de Seleção**: 
+
 Utilizei algumas fotes que sempre consumo e utilizo para transmitir para colegas que estão iniciando na área de Qualidade de Software. Acredito que elas ajudam bastante na base 
----
+
 
 ## 🔧 Engenharia de Prompts e "Cicatrizes"
 
@@ -42,7 +43,7 @@ Esta seção documenta a jornada de experimentação com prompts, incluindo test
 ```
 [Você é um analista de qualidade senior e com base nos seus conhecimenos, me de um resumo sobra a área de qualidade de software do modo tradicional com a inovação e uso de IA]
 ```
-**Resposta Obtida**: [No modo tradicional, a qualidade de software foca em garantir que o produto atenda aos requisitos funcionais e não funcionais do cliente, com bom custo-benefício e ausência de falhas críticas
+**Resposta Obtida**: No modo tradicional, a qualidade de software foca em garantir que o produto atenda aos requisitos funcionais e não funcionais do cliente, com bom custo-benefício e ausência de falhas críticas
 . Historicamente, essa área atua em duas frentes principais: a verificação (garantir que o produto está sendo construído corretamente através de inspeções e análises estáticas de código) e a validação (garantir que é o produto certo para o usuário, através de testes dinâmicos e de aceitação)
 .
 A estratégia tradicional baseia-se fortemente na Pirâmide de Testes, que organiza os esforços focando em testes unitários rápidos e baratos na base, seguidos por testes de integração no meio, e testes de ponta a ponta (E2E) mais custosos e lentos no topo
@@ -62,15 +63,15 @@ Análise Preditiva e Detecção Precoce: A IA processa grandes volumes de dados 
 O Novo Papel do Profissional de QA Com a IA assumindo as tarefas manuais, a escrita massiva de scripts e os testes repetitivos, o papel do profissional de QA sofre uma transformação. O analista passa a ter um foco muito mais estratégico
 . Apesar da autonomia das ferramentas, o fator humano continua insubstituível
 . O pensamento crítico, a perspectiva real do usuário e a supervisão humana são exigidos para analisar os dados gerados, garantir a segurança das respostas dadas pela IA e assegurar que a automação esteja, de fato, agregando valor ao produto final
-.]
-**Análise**: [Funcionou muito bem inclusive, deu excelentes sugestões para proximas perguntas]
-**Referências Usadas**: [Foram sitadas todas as fontes adicioandas como base]
+.
+**Análise**: Funcionou muito bem inclusive, deu excelentes sugestões para proximas perguntas
+**Referências Usadas**: Foram sitadas todas as fontes adicioandas como base
 
 #### Prompt v2.0 - Refinamento
 ```
 [Com base em seus conhecimentos como analista de qualidade de software senios, quais são os 7 principais fundamentos dos testes de software e como podemos aplicar o uso da IA neles aproveite e explique junto os paradoxos da pesticida na manutenção de testes e como a ia pode ajudar]
 ```
-**Resposta Obtida**: [Os 7 princípios fundamentais dos testes de software, conforme estabelecidos pelo Syllabus, são:
+**Resposta Obtida**: Os 7 princípios fundamentais dos testes de software, conforme estabelecidos pelo Syllabus, são:
 O teste mostra a presença de defeitos e não a sua ausência
 .
 Testes exaustivos são impossíveis
@@ -98,20 +99,22 @@ Como os defeitos se agrupam, ferramentas de IA analisam padrões em tempo real p
 O Paradoxo do Pesticida e o Desafio da Manutenção: O quinto princípio exige "cuidado com o paradoxo do pesticida"
 . (Nota: embora as fontes citem o nome do princípio, a sua definição exata não está descrita nelas. Na engenharia de software, este paradoxo afirma que repetir exatamente os mesmos testes continuamente fará com que eles deixem de encontrar novos defeitos, exigindo a criação frequente de novos cenários).
 Isso se choca diretamente com um dos maiores desafios crônicos do QA atual: a alta manutenção dos testes
-. Atualizar roteiros constantemente para criar]
-**Análise**: [Forneci um direcionamento melhor para a pergunta]
-**Referências Usadas**: [Todas as fontes cadastradas foram utilizadas]
+. Atualizar roteiros constantemente para criar
+**Análise**: Forneci um direcionamento melhor para a pergunta
+**Referências Usadas**: Todas as fontes cadastradas foram utilizadas
 
 
 ## 🎓 Reflexão Final
 
-[O projeto desenvolvido durante este bootcamp me proporcionou ampliar meu conhecimento sobre Inteligência Artificial e seus motores de funcionamento, além de compreender melhor o processo de criação de agentes inteligentes.
+O projeto desenvolvido durante este bootcamp me proporcionou ampliar meu conhecimento sobre Inteligência Artificial e seus motores de funcionamento, além de compreender melhor o processo de criação de agentes inteligentes.
 
 Um dos pontos mais relevantes da atividade foi a possibilidade de utilizar uma base de conhecimento própria para compartilhar informações e descobertas com os demais colegas, utilizando o NotebookLM como ferramenta de apoio.
 
 Durante o desenvolvimento do projeto, foi possível explorar diferentes possibilidades oferecidas pela ferramenta, percebendo como ela pode ser aplicada para transformar conteúdos em diversos formatos de entrega. Entre eles, apresentações, áudios e até mesmo vídeos, ampliando as formas de comunicação e disseminação do conhecimento.
 
-Essa experiência reforçou o potencial das ferramentas de IA não apenas como apoio ao aprendizado, mas também como meio de estruturar e compartilhar conhecimento de forma mais dinâmica e acessível.]
+Essa experiência reforçou o potencial das ferramentas de IA não apenas como apoio ao aprendizado, mas também como meio de estruturar e compartilhar conhecimento de forma mais dinâmica e acessível.
+
+**Acesso ao projeto:** https://notebooklm.google.com/notebook/c2c95ea4-68a6-4967-9bd9-905cd6906410
 
 ---
 
